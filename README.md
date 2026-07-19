@@ -284,40 +284,131 @@ A modern and responsive portfolio website showcasing my projects, skills, certif
 </div>
 
 <br>
-
 ---
 
-# 📬 Let's Connect together
+# 📬 Let's Connect
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/deepika-mohansivakumar/">
-<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
-</a>&nbsp;&nbsp;&nbsp;
+<i>Always open to discussing opportunities, collaborations, and innovative ideas.</i>
 
-<a href="https://github.com/DeepikaMohansivakumar">
-<img src="https://skillicons.dev/icons?i=github" height="45"/>
-</a>&nbsp;&nbsp;&nbsp;
+<br><br>
 
-<a href="mailto:deepika.mohansivakumar2006@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="45"/>
-</a>&nbsp;&nbsp;&nbsp;
+<table>
+<tr>
 
-<a href="https://deepika-mohansivakumar-portfolio.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-7C3AED?style=flat-square"/>
-</a>&nbsp;&nbsp;&nbsp;
+<td align="center" width="180">
 
-<a href="https://leetcode.com/u/Deepika_Mohansivakumar/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white"/>
-</a>
+### 🌐 Portfolio
 
-</div>
-## 💜 Thanks for Visiting!
-
-If you like my work, feel free to connect with me.
+Visit my work
 
 <br>
+
+<a href="https://deepika-mohansivakumar-portfolio.vercel.app/">
+
+**🔗 Open Portfolio →**
+
+</a>
+
+</td>
+
+<td align="center" width="180">
+
+### 💼 LinkedIn
+
+Let's connect
+
+<br>
+
+<a href="https://www.linkedin.com/in/deepika-mohansivakumar/">
+
+**🔗 Connect →**
+
+</a>
+
+</td>
+
+<td align="center" width="180">
+
+### 💻 GitHub
+
+Explore my projects
+
+<br>
+
+<a href="https://github.com/DeepikaMohansivakumar">
+
+**🔗 View Profile →**
+
+</a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center" width="180">
+
+### 🧩 LeetCode
+
+Problem Solving
+
+<br>
+
+<a href="https://leetcode.com/u/Deepika_Mohansivakumar/">
+
+**🔗 Visit Profile →**
+
+</a>
+
+</td>
+
+<td align="center" width="180">
+
+### 📧 Email
+
+Let's talk
+
+<br>
+
+<a href="mailto:deepika.mohansivakumar2006@gmail.com">
+
+**📨 Send Email →**
+
+</a>
+
+</td>
+
+<td align="center" width="180">
+
+### 📍 Location
+
+Tamil Nadu, India 🇮🇳
+
+</td>
+
+</tr>
+
+</table>
+
+</div>
+
+<br>
+
+---
+
+<div align="center">
+
+### 💜 Thanks for visiting!
+
+<i>Let's build something meaningful together.</i>
+
+<br><br>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=7C3AED"/>
 
 </div>
+
+---

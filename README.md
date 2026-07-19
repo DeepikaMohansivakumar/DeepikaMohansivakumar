@@ -69,50 +69,25 @@ I enjoy building applications that solve real-world problems and continuously im
 
 ---
 
-# ⚡ Tech Stack
-
-<div align="center">
+## ⚡ Tech Stack
 
 ### 💻 Languages
-
-<img src="https://skillicons.dev/icons?i=java,python,c,cpp,javascript"/>
-
-<br><br>
+`☕ Java` `🐍 Python` `⚙️ C` `🔷 C++` `✨ JavaScript`
 
 ### 🎨 Frontend
-
-<img src="https://skillicons.dev/icons?i=html,css,react,bootstrap"/>
-
-<br><br>
+`🌐 HTML5` `🎨 CSS3` `⚛️ React` `🟣 Bootstrap`
 
 ### ⚙️ Backend
-
-<img src="https://skillicons.dev/icons?i=flask"/>
-
-<br><br>
+`🌿 Flask`
 
 ### 🗄️ Database
-
-<img src="https://skillicons.dev/icons?i=mongodb,mysql"/>
-
-<br><br>
+`🍃 MongoDB` `🐬 MySQL`
 
 ### 🤖 AI / ML
+`🧠 TensorFlow` `👁️ OpenCV` `✋ MediaPipe`
 
-<img src="https://skillicons.dev/icons?i=tensorflow"/>
-
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/MediaPipe-FF6F00?style=for-the-badge"/>
-
-<br><br>
-
-### 🛠 Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode"/>
-
-</div>
-
+### 🛠️ Tools
+`🌱 Git` `🐙 GitHub` `💻 VS Code`
 ---
 # 🚀 Featured Projects
 
@@ -356,7 +331,13 @@ A modern and responsive portfolio website showcasing my projects, skills, certif
 
 ## 💜 Thanks for Visiting!
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&duration=3500&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+GitHub!;Let's+build+something+amazing+together!;Happy+Coding!+🚀"/>
+If you like my work, feel free to connect with me.
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=7C3AED"/>
+
+</div>
 
 <br><br>
 

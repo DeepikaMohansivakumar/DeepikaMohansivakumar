@@ -1,70 +1,365 @@
-Deepika Mohansivakumar
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7F5AF0&height=220&section=header&text=Deepika%20Mohansivakumar&fontColor=ffffff&fontSize=42&animation=fadeIn"/>
-</p>
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=9D7CFF&center=true&vCenter=true&width=700&lines=AI+%26+Machine+Learning+Engineer;Full+Stack+Developer;Building+Real-World+AI+Solutions" />
-</p>
-<p align="center">
-<a href="mailto:deepika.mohansivakumar2006@gmail.com"><img src="https://img.shields.io/badge/Email-7F5AF0?style=for-the-badge&logo=gmail&logoColor=white"></a>
-<a href="https://deepika-mohansivakumar-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-6D28D9?style=for-the-badge"></a>
-<a href="https://github.com/DeepikaMohansivakumar"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"></a>
-</p>
----
-👋 About Me
-🎓 Final Year B.E. CSE (AI & ML) • CGPA 9.22
-💡 Passionate about Artificial Intelligence, Full Stack Development and building useful software.
-🌱 Currently learning Java DSA, Spring Boot, React and System Design.
-💼 Looking for Software Engineering / AI & ML Internship opportunities (2027).
----
-🚀 Developer Dashboard
-Status	Details
-🎓 Education	Paavai Engineering College
-📍 Location	Tamil Nadu, India
-💼 Experience	Web Development Intern – TechCiti Technologies
-🔭 Building	Virtual Mandi, Portfolio, AI Projects
-🎯 Goal	Software Engineer
----
-💻 Tech Stack
 <div align="center">
-Languages
-<img src="https://skillicons.dev/icons?i=java,python,cpp,c,js" />
-Frontend
-<img src="https://skillicons.dev/icons?i=html,css,react,bootstrap" />
-Backend & Database
-<img src="https://skillicons.dev/icons?i=flask,mysql,mongodb" />
-AI / ML
-<img src="https://skillicons.dev/icons?i=tensorflow" />
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
-<img src="https://img.shields.io/badge/MediaPipe-FF6F00?style=for-the-badge"/>
-Tools
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=7C3AED&text=Deepika%20Mohansivakumar&fontColor=ffffff&fontSize=42&fontAlignY=38&animation=fadeIn"/>
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1500&color=A78BFA&center=true&vCenter=true&width=750&lines=Software+Engineer;AI+%26+Machine+Learning+Enthusiast;Full+Stack+Developer;Building+Technology+that+Creates+Impact"/>
+
+<br><br>
+
+<a href="https://deepika-mohansivakumar-portfolio.vercel.app/">
+<img src="https://img.shields.io/badge/🌐%20Portfolio-7C3AED?style=for-the-badge"/>
+</a>
+
+<a href="https://www.linkedin.com/in/deepika-mohansivakumar/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/u/Deepika_Mohansivakumar/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+<a href="mailto:deepika.mohansivakumar2006@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
 </div>
+
 ---
-🚀 Featured Projects
-🌾 Virtual Mandi
-ONDC-inspired agricultural marketplace connecting farmers and buyers.
-Stack: Flask • Python • MongoDB • Cloudinary • Weather API
-🤟 Tamil Sign Language Recognition
-Real-time sign language recognition using MediaPipe, TensorFlow and OpenCV.
-🌐 Portfolio Website
-Responsive React portfolio showcasing projects and skills.
+
+# 👋 Hi, I'm Deepika
+
+<img align="right" width="330" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
+
+I'm a **Software Engineering aspirant** with a strong interest in **Artificial Intelligence, Machine Learning, and Full Stack Development**.
+
+I enjoy building applications that solve real-world problems and continuously improving my technical skills through hands-on projects.
+
+### 🌱 Currently
+
+- 🚀 Learning **Java DSA**
+- ⚛️ Exploring **React & Spring Boot**
+- 🤖 Building AI-powered applications
+- 💼 Preparing for **2027 Software Engineering Internships**
+
+<br>
+
 ---
-📈 GitHub Analytics
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=DeepikaMohansivakumar&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeepikaMohansivakumar&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=DeepikaMohansivakumar&theme=tokyo-night"/>
-</p>
+
+# 📊 Developer Dashboard
+
+<div align="center">
+
+| 🎓 Education | 💼 Experience |
+|-------------|--------------|
+| Final Year B.E. AI & ML | Web Development Intern |
+
+| 📈 CGPA | 📍 Location |
+|---------|------------|
+| **9.22** | Tamil Nadu, India |
+
+| 🚀 Current Goal | ❤️ Interests |
+|----------------|-------------|
+| Software Engineering Internship | AI • Full Stack • Java |
+
+</div>
+
+<br>
+
 ---
-📬 Connect
-Portfolio: https://deepika-mohansivakumar-portfolio.vercel.app/
-GitHub: https://github.com/DeepikaMohansivakumar
-Email: deepika.mohansivakumar2006@gmail.com
+
+# ⚡ Tech Stack
+
+<div align="center">
+
+### 💻 Languages
+
+<img src="https://skillicons.dev/icons?i=java,python,c,cpp,javascript"/>
+
+<br><br>
+
+### 🎨 Frontend
+
+<img src="https://skillicons.dev/icons?i=html,css,react,bootstrap"/>
+
+<br><br>
+
+### ⚙️ Backend
+
+<img src="https://skillicons.dev/icons?i=flask"/>
+
+<br><br>
+
+### 🗄️ Database
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql"/>
+
+<br><br>
+
+### 🤖 AI / ML
+
+<img src="https://skillicons.dev/icons?i=tensorflow"/>
+
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/MediaPipe-FF6F00?style=for-the-badge"/>
+
+<br><br>
+
+### 🛠 Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode"/>
+
+</div>
+
 ---
-<p align="center"><i>Building intelligent software that creates real-world impact.</i></p>
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7F5AF0&height=120&section=footer"/>
-</p>
+# 🚀 Featured Projects
+
+<div align="center">
+
+<table>
+<tr>
+
+<td width="50%">
+
+## 🌾 Virtual Mandi
+
+**ONDC-inspired Agricultural Marketplace**
+
+A full-stack platform connecting farmers directly with buyers, featuring secure authentication, weather insights, cloud image uploads, and market price comparison.
+
+### ⚙️ Tech Stack
+
+<img src="https://skillicons.dev/icons?i=python,flask,mongodb"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Weather_API-0EA5E9?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Agmarknet_API-16A34A?style=for-the-badge"/>
+
+<br><br>
+
+<a href="YOUR_REPOSITORY_LINK">
+<img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
+<td width="50%">
+
+## 🤟 Tamil Sign Language Recognition
+
+**Deep Learning • Computer Vision**
+
+Recognizes Tamil Sign Language gestures in real time using deep learning and computer vision for better accessibility.
+
+### ⚙️ Tech Stack
+
+<img src="https://skillicons.dev/icons?i=python,tensorflow"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/MediaPipe-FF6F00?style=for-the-badge"/>
+
+<br><br>
+
+<a href="YOUR_REPOSITORY_LINK">
+<img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td colspan="2">
+
+## 🌐 Personal Portfolio
+
+A modern and responsive portfolio website showcasing my projects, skills, certifications, and experience.
+
+### ⚙️ Tech Stack
+
+<img src="https://skillicons.dev/icons?i=react,vite,html,css,javascript"/>
+
+<br><br>
+
+<a href="https://deepika-mohansivakumar-portfolio.vercel.app/">
+<img src="https://img.shields.io/badge/Live_Demo-7C3AED?style=for-the-badge"/>
+</a>
+
+<a href="https://github.com/DeepikaMohansivakumar/Deepika_Mohansivakumar_Portfolio">
+<img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
+</tr>
+
+</table>
+
+</div>
+
+---
+
+# 💼 Experience
+
+<div align="center">
+
+| 💼 Role | 🏢 Company | 📅 Duration |
+|:--------|:-----------|:-----------:|
+| **Web Development Intern** | **TechCiti Technologies Pvt. Ltd.** | Jun 2025 – Jul 2025 |
+
+</div>
+
+### Highlights
+
+- Built responsive web pages using **HTML, CSS, and JavaScript**
+- Improved UI components for a better user experience
+- Worked on debugging, testing, and deployment support
+- Collaborated with the development team on frontend features
+
+---
+
+# 🎓 Education
+
+| Qualification | Institution | Score |
+|:-------------|:------------|:-----:|
+| **B.E. Computer Science (AI & ML)** | Paavai Engineering College | **CGPA: 9.22** |
+
+---
+
+# 📜 Certifications
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Java-F89820?style=for-the-badge&logo=openjdk&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Web_Development-2563EB?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/AI_&_Machine_Learning-8B5CF6?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Data_Analytics-0F766E?style=for-the-badge"/>
+
+</div>
+
+---
+# 📊 GitHub Analytics
+
+<br>
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=DeepikaMohansivakumar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeepikaMohansivakumar&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000"/>
+
+</div>
+
+<br><br>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=DeepikaMohansivakumar&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+<br><br>
+
+---
+
+# 🎯 Current Focus
+
+<div align="center">
+
+| 🚀 Currently Learning | 💡 Building |
+|-----------------------|-------------|
+| Java DSA | AI Projects |
+| Spring Boot | Full Stack Applications |
+| React | Portfolio Improvements |
+| System Design | Open Source Ready Projects |
+
+</div>
+
+<br>
+
+---
+
+# 🌟 What Drives Me
+
+<div align="center">
+
+💜 Building software that solves real-world problems
+
+🤖 Exploring Artificial Intelligence & Machine Learning
+
+🌱 Learning something new every day
+
+🚀 Striving to become a better Software Engineer
+
+</div>
+
+<br>
+
+---
+
+# 📬 Let's Connect
+
+<br>
+
+<div align="center">
+
+<a href="https://deepika-mohansivakumar-portfolio.vercel.app/">
+<img src="https://img.shields.io/badge/🌐%20Portfolio-7C3AED?style=for-the-badge"/>
+</a>
+
+&nbsp;
+
+<a href="https://www.linkedin.com/in/deepika-mohansivakumar/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+&nbsp;
+
+<a href="https://github.com/DeepikaMohansivakumar">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<br><br>
+
+<a href="https://leetcode.com/u/Deepika_Mohansivakumar/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+&nbsp;
+
+<a href="mailto:deepika.mohansivakumar2006@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
+
+<br><br>
+
+---
+
+<div align="center">
+
+## 💜 Thanks for Visiting!
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&duration=3500&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+GitHub!;Let's+build+something+amazing+together!;Happy+Coding!+🚀"/>
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=7C3AED"/>
+
+</div>

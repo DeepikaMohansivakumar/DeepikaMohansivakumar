@@ -12,10 +12,6 @@
 <img src="https://img.shields.io/badge/🌐%20Portfolio-7C3AED?style=for-the-badge"/>
 </a>
 
-<a href="https://www.linkedin.com/in/deepika-mohansivakumar/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
 <a href="https://leetcode.com/u/Deepika_Mohansivakumar/">
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>

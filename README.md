@@ -287,59 +287,36 @@ A modern and responsive portfolio website showcasing my projects, skills, certif
 
 ---
 
-# 📬 Let's Connect
-
-<br>
+# 📬 Let's Connect together
 
 <div align="center">
 
-<a href="https://deepika-mohansivakumar-portfolio.vercel.app/">
-<img src="https://img.shields.io/badge/🌐%20Portfolio-7C3AED?style=for-the-badge"/>
-</a>
-
-&nbsp;
-
 <a href="https://www.linkedin.com/in/deepika-mohansivakumar/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-&nbsp;
+<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
+</a>&nbsp;&nbsp;&nbsp;
 
 <a href="https://github.com/DeepikaMohansivakumar">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<br><br>
-
-<a href="https://leetcode.com/u/Deepika_Mohansivakumar/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a>
-
-&nbsp;
+<img src="https://skillicons.dev/icons?i=github" height="45"/>
+</a>&nbsp;&nbsp;&nbsp;
 
 <a href="mailto:deepika.mohansivakumar2006@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=gmail" height="45"/>
+</a>&nbsp;&nbsp;&nbsp;
+
+<a href="https://deepika-mohansivakumar-portfolio.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-7C3AED?style=flat-square"/>
+</a>&nbsp;&nbsp;&nbsp;
+
+<a href="https://leetcode.com/u/Deepika_Mohansivakumar/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white"/>
 </a>
 
 </div>
-
-<br><br>
-
----
-
-<div align="center">
-
 ## 💜 Thanks for Visiting!
 
 If you like my work, feel free to connect with me.
 
 <br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=7C3AED"/>
-
-</div>
-
-<br><br>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=7C3AED"/>
 
